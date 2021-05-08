@@ -65,6 +65,14 @@
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png" alt=windows10 width="60" height="60"/>
 </p>
 
+## My Programming Performances
+
+| Competition Name | 2021 | 2022 |
+| :----- | :----: | :----:|
+| <img width="120px" src="https://miro.medium.com/max/700/1*h_woVX1QKCNabHosdeBIRg.png" /> <br />  Google CodeJam Round 1 <br /> Rank: 1484 | - |
+
+
+
 <p align="center">
 	<img style="margin: auto;" src=https://github-readme-stats.vercel.app/api?username=UtkarshMathur05&show_icons=true alt=UtkarshMathur05 /> 
 </p>
