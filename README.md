@@ -67,11 +67,9 @@
 
 ## My Programming Performances
 
-| Competition Name | 2021 | 2022 |
-| :----- | :----: | :----:|
-| <img width="120px" src="https://miro.medium.com/max/700/1*h_woVX1QKCNabHosdeBIRg.png" /> <br />  Google CodeJam Round 1 <br /> Rank: 1484 | - |
-
-
+| Competition Name | 2020 | 2021 | 2022 |
+| :----- | :----: |
+| <img width="120px" src="https://miro.medium.com/max/700/1*h_woVX1QKCNabHosdeBIRg.png" /> <br />  Google CodeJam | - | Round 1 <br /> Rank: 1484 | - |
 
 <p align="center">
 	<img style="margin: auto;" src=https://github-readme-stats.vercel.app/api?username=UtkarshMathur05&show_icons=true alt=UtkarshMathur05 /> 
