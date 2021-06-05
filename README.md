@@ -5,7 +5,7 @@
   </a>
   
   <a href="https://www.instagram.com/iamutkarshmathur/">
-    <img src="https://img.shields.io/badge/instagram-utkarsh_-red">
+    <img src="https://img.shields.io/badge/instagram-utkarsh_-pink">
   </a>
 </p>
 
