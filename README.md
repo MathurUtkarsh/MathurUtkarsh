@@ -73,5 +73,5 @@
 <p align="center">
 
 <a href=https://linkedin.com/in/iamutkarshmathur05 target="blank"><img align="center" src=https://static-exp1.licdn.com/sc/h/8zliikpi39umlw2wr99gu4a0u alt="utkarshmathur" height="40" width="40" /></a>
-<a href=https://instagram.com/iamutkarshmathur_ target="blank"><img align="center" src=https://i.pinimg.com/originals/9b/97/87/9b9787fb5209b99c3207554a341e3f32.png alt="utkarshmathur_" height="40" width="40" /></a>
+<a href=https://instagram.com/iamutkarshmathur_ target="blank"><img align="center" src=https://i.pinimg.com/originals/9b/97/87/9b9787fb5209b99c3207554a341e3f32.png alt="utkarshmathur_" height="60" width="60" /></a>
 </p>
