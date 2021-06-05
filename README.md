@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/linkedin-utkarsh-blue">
   </a>
   
-  <a href="https://www.instagram.com/iamutkarshmathur_/">
+  <a href="https://www.instagram.com/iamutkarshmathur/">
     <img src="https://img.shields.io/badge/instagram-utkarsh_-red">
   </a>
 </p>
