@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Utkarsh Mathur</h1>
  <p align="center"><br/>
    <a href="https://www.linkedin.com/in/iamutkarshmathur05/">
-    <img src="https://img.shields.io/badge/linkedin-utkarsh-blue">
+    <img src="https://img.shields.io/badge/linkedin-utkarsh-yellow">
   </a>
   
   <a href="https://www.instagram.com/iamutkarshmathur/">
