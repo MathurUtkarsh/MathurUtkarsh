@@ -11,7 +11,7 @@
 
 <h3 align="center">A passionate Web developer from India</h3>
 <h3 align="center">Bachelor in Engineering, Computer Science (To be graduated in 2024)</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=UtkarshMathur05 alt=UtkarshMathur05/></p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=MathurUtkarsh alt=UtkarshMathur05/></p>
 
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -67,8 +67,8 @@
 
 
 <p align="center">
-	<img style="margin: auto;" src=https://github-readme-stats.vercel.app/api?username=UtkarshMathur05&show_icons=true alt=UtkarshMathur05 />
-	<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshMathur05&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
+	<img style="margin: auto;" src=https://github-readme-stats.vercel.app/api?username=MathurUtkarsh&show_icons=true alt=UtkarshMathur05 />
+	<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MathurUtkarsh&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
 </p>
 
 <p align="center">
