@@ -67,7 +67,7 @@
 
 
 <p align="center">
-	<img style="margin: auto;" src=https://github-readme-stats.vercel.app/api?username=MathurUtkarsh&show_icons=true alt=UtkarshMathur05 />
+	<img style="margin: auto; alt=UtkarshMathur05 />
 	<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MathurUtkarsh&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
 </p>
 
