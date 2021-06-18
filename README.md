@@ -69,7 +69,7 @@
 <p align="center">
 	<img src = "https://github-readme-streak-stats.herokuapp.com/?user=MathurUtkarsh&theme=radical&hide_border=true%22%20alt=%22UtkarshMathur%22" alt="Github Contribution Graph">
 	<br>
-	<img src = "https://github-readme-stats.vercel.app/api/?username=MathurUtkarsh&count_private=true&theme=tokyonight&showicons=true" alt="Github Stats">
+	
 	<br>
 	<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MathurUtkarsh&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
 </p>
