@@ -22,9 +22,9 @@
 - 📫 How to reach me **utkarshmathur05@gmail.com**
 <h4>Programming Languages: </h4>
 <p align="left">
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
+ <img style="margin: auto;" src="Programming Languages/cpp.png" alt=cplusplus width="60" height="60"/>
  <img style="margin: auto;" src="Programming Languages/c.png" alt=c width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=python width="60" height="60"/>
+ <img style="margin: auto;" src="Programming Languages/python.png" alt=python width="60" height="60"/>
 </p>
 
 <h4>Skills and Tools: </h4>
