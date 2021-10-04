@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 <h3 align="center">Bachelor in Engineering, Computer Science (To be graduated in 2024)</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=MathurUtkarsh alt=UtkarshMathur05/></p>
 
