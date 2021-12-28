@@ -17,7 +17,7 @@
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🌱 I’m currently learning ... **Django and React.js**
+- 🌱 I’m currently learning ... **keras**
 - 💬 Ask me about ... **Web Develpoment**
 - 📫 How to reach me **utkarshmathur05@gmail.com**
 <h4>Programming Languages: </h4>
