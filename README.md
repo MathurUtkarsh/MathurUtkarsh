@@ -18,7 +18,7 @@
 
 
 - 🌱 I’m currently learning ... **keras**
-- 💬 Ask me about ... **Web Develpoment**
+- 💬 Ask me about ... **Yolo-v4**
 - 📫 How to reach me **utkarshmathur05@gmail.com**
 <h4>Programming Languages: </h4>
 <p align="left">
