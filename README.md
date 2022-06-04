@@ -66,7 +66,7 @@
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api?username=mathurutkarsh" alt="Github Stats">
 	<br>
-	<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=MathurUtkarsh&show_icons=true&locale=en&layout=compact" alt="Most Used Languages">
+	<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=MathurUtkarsh&show_icons=true&locale=en&layout=dark" alt="Most Used Languages">
 </p>
 
 <p align="center">
