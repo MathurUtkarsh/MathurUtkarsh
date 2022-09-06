@@ -75,6 +75,6 @@
 <a href=https://www.instagram.com/iamutkarshmathur/ target="blank"><img align="center" src=https://i.pinimg.com/originals/9b/97/87/9b9787fb5209b99c3207554a341e3f32.png alt="utkarshmathur_" height="75" width="75" /></a>
 </p>
 
-![snake gif](https://github.com/MathurUtkarsh/MathurUtkarsh/blob/3b3e6d8c46320fdd22be9100d773269cb1c90013/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/MathurUtkarsh/MathurUtkarsh/blob/3b3e6d8c46320fdd22be9100d773269cb1c90013/github-contribution-grid-snake.svg)
 
   
