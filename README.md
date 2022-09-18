@@ -18,7 +18,7 @@
 
 
 - 🌱 I’m currently learning ... **Jenkins**
-- 💬 Ask me about ... **Yolo-v4**
+- 💬 Ask me about ... **Computer Vision**
 - 📫 How to reach me **utkarshmathur05@gmail.com**
 <h4>Programming Languages: </h4>
 <p align="left">
