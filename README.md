@@ -3,7 +3,7 @@
 <h1 align="center">Hi , I'm Utkarsh Mathur <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-I am [Utkarsh](https://linktr.ee/imutkarsh), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong intrest in Computer Vision🤖 and DevOps⚙️.
+I am [Utkarsh](https://linktr.ee/imutkarsh), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Computer Vision🤖 and DevOps⚙️.
 
 
 👨‍💻 As a Kaggle Notebook Master with over 2 years of experience working in the domain of Data Science and Cloud-Native technologies, I am highly proficient in building robust, secure, and scalable infrastructures using tools such as Kubernetes, Docker, AWS, Azure, CI/CD, etc. I am also skilled in metric collection and monitoring tools.
