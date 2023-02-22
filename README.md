@@ -75,7 +75,7 @@ I am [Utkarsh](https://linktr.ee/imutkarsh), a passionate and creative developer
   <summary><b>📈 My Top Languages</b></summary>
   <p align="center">
 	<br>
-	<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=MathurUtkarsh&show_icons=true&locale=en&layout=compact" alt="Most Used Languages">
+	<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mathurutkarsh&hide_progress=true&theme=radical" alt="Most Used Languages">
   </p>
   </details>
 
