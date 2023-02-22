@@ -64,23 +64,20 @@ I am [Utkarsh](https://linktr.ee/imutkarsh), a passionate and creative developer
   
   <details>
   <summary><b>💻 GitHub Profile Stats</b></summary>
-<p align="center">
+  <p align="center">
 	<br>
-	<img src="https://github-readme-stats.vercel.app/api?username=mathurutkarsh" alt="Github Stats">
-	<br>
-	<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=MathurUtkarsh&show_icons=true&locale=en&layout=compact" alt="Most Used Languages">
-</p>
-</details>
+	<img src="[https://github-readme-stats.vercel.app/api?username=mathurutkarsh&show_icons=true&theme=radical]" alt="Github Stats">
+  </p>
+  </details>
 
-</details>
 
   <details>
   <summary><b>📈 My Top Languages</b></summary>
-<p align="center">
+  <p align="center">
 	<br>
 	<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=MathurUtkarsh&show_icons=true&locale=en&layout=compact" alt="Most Used Languages">
-</p>
-</details>
+  </p>
+  </details>
 
 
 <!-- ## 📊 My Kaggle Stats 
