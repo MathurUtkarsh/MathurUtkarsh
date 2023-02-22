@@ -5,7 +5,7 @@
 
 I am [Utkarsh](https://linktr.ee/imutkarsh), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong intrest in Computer Vision🤖 and DevOps⚙️.
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DARK-art108&theme=algolia" alt="DARK-art108" /></p>
+<p align="center"><img align="center" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" alt="MathurUtkarsh" /></p>
 
 👨‍💻 As a Kaggle Notebook Master with over 2 years of experience working in the domain of Data Science and Cloud-Native technologies, I am highly proficient in building robust, secure, and scalable infrastructures using tools such as Kubernetes, Docker, AWS, Azure, CI/CD, etc. I am also skilled in metric collection and monitoring tools.
 
