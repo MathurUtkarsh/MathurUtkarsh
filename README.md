@@ -65,9 +65,18 @@ I am [Utkarsh](https://linktr.ee/imutkarsh), a passionate and creative developer
   <details>
   <summary><b>💻 GitHub Profile Stats</b></summary>
 <p align="center">
-	<img src = "https://github-readme-streak-stats.herokuapp.com/?user=MathurUtkarsh&theme=radical&hide_border=true%22%20alt=%22UtkarshMathur%22" alt="Github Contribution Graph">
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api?username=mathurutkarsh" alt="Github Stats">
+	<br>
+	<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=MathurUtkarsh&show_icons=true&locale=en&layout=compact" alt="Most Used Languages">
+</p>
+</details>
+
+</details>
+
+  <details>
+  <summary><b>📈 My Top Languages</b></summary>
+<p align="center">
 	<br>
 	<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=MathurUtkarsh&show_icons=true&locale=en&layout=compact" alt="Most Used Languages">
 </p>
