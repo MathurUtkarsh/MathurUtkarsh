@@ -46,17 +46,17 @@ I am [Utkarsh](https://linktr.ee/imutkarsh), a passionate and creative developer
   
  <p float="left">
   <a href="https://www.postgresql.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/postgresql.gif" height="90" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/postgresql.gif" height="70" />&nbsp;&nbsp;
   </a>
   <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif" height="80" />
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif" height="70" />
   </a>
 </p>
 
 ### Cloud
 
   <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="70" />
   </a>
 
   
@@ -65,40 +65,27 @@ I am [Utkarsh](https://linktr.ee/imutkarsh), a passionate and creative developer
   <details>
   <summary><b>💻 GitHub Profile Stats</b></summary>
 
-<p align="center"> <img src="https://github-stats-readme.dark-art108.vercel.app/api?username=DARK-art108&show_icons=true&theme=radical" alt="DARK-art108" />
+<p align="center"> <img src="https://github-stats-readme.MathurUtkarsh.vercel.app/api?username=MathurUtkarsh&show_icons=true&theme=radical" alt="MathurUtkarsh" />
 
 </details>
 
   <details>
   <summary><b>📈 My Top Languages</b></summary>
 
-<p align="center"> <img src="https://github-stats-readme.dark-art108.vercel.app/api/top-langs/?username=DARK-art108&layout=compact" alt="DARK-art108"/>
+<p align="center"> <img src="https://github-stats-readme.MathurUtkarsh.vercel.app/api/top-langs/?username=MathurUtkarsh&layout=compact" alt="MathurUtkarsh"/>
 
 </details>
 
 <!-- ## 📊 My Kaggle Stats 
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ritesh2000/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ritesh2000/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ritesh2000/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ritesh2000/discussion) -->
-
-## My Certifications 🏆
-
- <p float="left">
-  <a href="https://www.credly.com/badges/d350d694-e003-41e1-b66a-ebf61861044c/public_url" target="_blank" >
-    <img src="https://raw.githubusercontent.com/DARK-art108/DARK-art108/master/assets/cka_from_cncfsite__281_29.png" height="120" />&nbsp;&nbsp;
-  </a>
-  <a href="https://www.credential.net/eb0860f4-f20d-4b14-98cd-5635efbf2304" target="_blank" >
-    <img src="https://raw.githubusercontent.com/DARK-art108/DARK-art108/master/assets/6708850e-76a3-4aa7-8220-6edcc9d7874f.png" width="120" />
-  </a>&nbsp;&nbsp;
-</p>
-
-
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mathurutkarsh /competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mathurutkarsh /dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mathurutkarsh /notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mathurutkarsh /discussion) -->
 
   
 ## 🎧 Spotify Playing 
-  [<img src="https://spotify-readme.dark-art108.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="450" />](https://open.spotify.com/user/316jsag3fisl42rcnnssu7jersee)
+  [<img src="https://spotify-readme.MathurUtkarsh.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="450" />](https://open.spotify.com/user/316jsag3fisl42rcnnssu7jersee)
   
   
 ## 📫 How to reach me? 
