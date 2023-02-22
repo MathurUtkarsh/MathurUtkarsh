@@ -5,7 +5,6 @@
 
 I am [Utkarsh](https://linktr.ee/imutkarsh), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong intrest in Computer Vision🤖 and DevOps⚙️.
 
-<p align="center"><img align="center" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" alt="MathurUtkarsh" /></p>
 
 👨‍💻 As a Kaggle Notebook Master with over 2 years of experience working in the domain of Data Science and Cloud-Native technologies, I am highly proficient in building robust, secure, and scalable infrastructures using tools such as Kubernetes, Docker, AWS, Azure, CI/CD, etc. I am also skilled in metric collection and monitoring tools.
 
@@ -15,7 +14,7 @@ I am [Utkarsh](https://linktr.ee/imutkarsh), a passionate and creative developer
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=DARK-art108&label=Profile%20views&color=0e75b6&style=plastic" alt="DARK-art108" /> </p>
 
-<img align='right' src="https://i.pinimg.com/originals/50/44/30/50443067a22e6dd1ecc2d2e394d6e634.gif" width="300">
+<img align='right' src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="300">
 
 ## :zap: Skills
 
