@@ -80,7 +80,7 @@ I am [Utkarsh](https://linktr.ee/imutkarsh), a passionate and creative developer
   </details>
 
 
-<!-- ## 📊 My Kaggle Stats 
+ ## 📊 My Kaggle Stats 
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mathurutkarsh /competition)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mathurutkarsh /dataset)
