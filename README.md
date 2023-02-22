@@ -90,7 +90,7 @@ I am [Utkarsh](https://linktr.ee/imutkarsh), a passionate and creative developer
   ⦿ Follow me on [Twitter](https://twitter.com/ImUtkarshMathur) 🐦 <br>
   ⦿ Shoot Me an [Email](mailto:utkarshmathur05@gmail.com) 💌 <br>
 
-<a align="center"href="https://www.buymeacoffee.com/yourusername" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;" ></a> 
+<a href="https://www.buymeacoffee.com/yourusername" target="_blank" align="center"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;" ></a> 
 
 
 
