@@ -20,22 +20,16 @@ I am [Utkarsh](https://linktr.ee/imutkarsh), a passionate and creative developer
 
 <p float="left">
   <a href="https://golang.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="90" />
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="60" />
   </a>
   <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="60" /> 
   </a>
   <a href="https://kubernetes.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="75" />
   </a>
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
-  </a>
-  <a href="https://www.terraform.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" />
-  </a>
-  <a href="https://helm.sh/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif"  height="75" />
   </a>
    <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
