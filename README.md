@@ -7,11 +7,11 @@ I am [Utkarsh](https://linktr.ee/imutkarsh), a passionate and creative developer
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DARK-art108&theme=algolia" alt="DARK-art108" /></p>
 
-I ❤️ to work with Cloud-Native technologies and Golang ( Go ). I build robust, secure, and scalable infrastructures using Cloud-native technologies such as Kubernetes, Docker, Helm, Terraform, DigitalOcean, AWS,GCP,CI/CD, etc. and proficient with metric collection & monitoring tools such as Grafana,Kibana and Logstash.
+👨‍💻 As a Kaggle Notebook Master with over 2 years of experience working in the domain of Data Science and Cloud-Native technologies, I am highly proficient in building robust, secure, and scalable infrastructures using tools such as Kubernetes, Docker, AWS, Azure, CI/CD, etc. I am also skilled in metric collection and monitoring tools.
 
-I am currently working as a Data Scientist @[Ineuron.ai](https://ineuron.ai/). I am also a Kaggle Notebook Master and working in a domain of Data Science and Cloud from past 2 years. I have also contributed to some of the big projects like **@meshery** , **@Knative** , **@Porter**, **@Tensorflow**, **@Thanos**, etc.
+🏆 I have contributed to several high-profile open-source projects, including @meshery, @Tensorflow, @Docker, and more. Additionally, I have actively contributed to open-source organizations such as @PyData Guna, and @Aviyel India. I have also participated in several Kaggle competitions, Hackathons, and conferences, earning a reputation as a top performer and an innovative problem solver.
 
-Along with my full-time job, I also work in maintaining and building open source organization like @𝐏𝐲𝐃𝐚𝐭𝐚 𝐆𝐮𝐧𝐚, @𝐏𝐢𝐞&𝐚𝐢 𝐆𝐮𝐧𝐚, @𝐊𝐚𝐠𝐠𝐥𝐞 𝐃𝐚𝐲𝐬 𝐌𝐞𝐞𝐭𝐮𝐩 𝐃𝐞𝐥𝐡𝐢 𝐍𝐂𝐑 and Participating in Kaggle Competetions, Hackathons and Conferences.
+🤝 I am always looking to connect with like-minded professionals and learn from new experiences. Feel free to reach out to me on LinkedIn, and let's explore how we can work together to build a better, more advanced tech ecosystem.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=DARK-art108&label=Profile%20views&color=0e75b6&style=plastic" alt="DARK-art108" /> </p>
 
