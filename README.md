@@ -12,9 +12,9 @@ I am [Utkarsh](https://linktr.ee/imutkarsh), a passionate and creative developer
 
 🤝 I am always looking to connect with like-minded professionals and learn from new experiences. Feel free to reach out to me on LinkedIn, and let's explore how we can work together to build a better, more advanced tech ecosystem.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=DARK-art108&label=Profile%20views&color=0e75b6&style=plastic" alt="DARK-art108" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MathurUtkarsh&label=Profile%20views&color=0e75b6&style=plastic" alt="MathurUtkarsh" /> </p>
 
-<img align='right' src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="300">
+<img align='right' src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="500">
 
 ## :zap: Skills
 
