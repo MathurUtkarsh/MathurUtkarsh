@@ -93,10 +93,10 @@ I am [Utkarsh](https://linktr.ee/imutkarsh), a passionate and creative developer
   
 ## 📫 How to reach me? 
 
-  ⦿ Visit my [Website](https://ritesh.cloud) 🌐 <br>
-  ⦿ Follow me on [Kaggle](https://www.kaggle.com/ritesh2000)🌐 <br>
-  ⦿ Follow me on [Dribbble](https://dribbble.com/ritesh-yadav)🎨 <br>
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/ritesh-yadav2011/) 👨🏻‍💻 <br>
-  ⦿ Follow me on [Twitter](https://twitter.com/RiteshYadav_1) 🐦 <br>
-  ⦿ Shoot Me an [Email](mailto:daydreamingguy941@gmail.com) 💌 <br>
+  ⦿ Visit my [Website](https://linktr.ee/imutkarsh) 🌐 <br>
+  ⦿ Follow me on [Kaggle](https://www.kaggle.com/mathurutkarsh)👁️ <br>
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/iamutkarshmathur/) 👨🏻‍💻 <br>
+  ⦿ Follow me on [Twitter](https://twitter.com/ImUtkarshMathur) 🐦 <br>
+  ⦿ Shoot Me an [Email](mailto:utkarshmathur05@gmail.com) 💌 <br>
+  ⦿ Buy me a coffee on [Coffee](buymeacoffee.com/iamutkarsh) 💌 <br>
 
