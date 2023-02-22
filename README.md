@@ -89,8 +89,7 @@ I am [Utkarsh](https://linktr.ee/imutkarsh), a passionate and creative developer
 
   
 ## 🎧 Spotify Playing 
-  [<img src="https://spotify-readme.MathurUtkarsh.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="450" />](https://open.spotify.com/user/316jsag3fisl42rcnnssu7jersee)
-  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ng2hws3ucqm2etwow7tcuqjela&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31ng2hws3ucqm2etwow7tcuqjela&redirect=true)
   
 ## 📫 How to reach me? 
 
