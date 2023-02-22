@@ -66,7 +66,7 @@ I am [Utkarsh](https://linktr.ee/imutkarsh), a passionate and creative developer
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <p align="center">
 	<br>
-	<img src="[https://github-readme-stats.vercel.app/api?username=mathurutkarsh&show_icons=true&theme=radical]" alt="Github Stats">
+	<img src="https://github-readme-stats.vercel.app/api?username=mathurutkarsh&show_icons=true&theme=radical" alt="Github Stats">
   </p>
   </details>
 
